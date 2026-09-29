@@ -1,16 +1,106 @@
-## Hi there 👋
+# 👋 Hi, I'm Fabián Soto
 
-<!--
-**fasb16/fasb16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | .NET | React | Azure | DevOps
 
-Here are some ideas to get you started:
+🇨🇷 Software Engineer from Costa Rica passionate about building **scalable, maintainable and reliable software**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work across the stack, with a strong focus on **backend development, APIs, cloud solutions and CI/CD**, while also building modern web and mobile applications.
+
+---
+
+## 🧑‍💻 About Me
+
+* 🔹 Building backend services and REST APIs with **C# and .NET**
+* 🔹 Developing modern web applications with **React & TypeScript**
+* 🔹 Working with **Microsoft Azure and cloud technologies**
+* 🔹 Designing and improving **CI/CD pipelines**
+* 🔹 Working with **GitHub & Azure DevOps**
+* 🔹 Exploring **iOS development with Swift**
+* 🔹 Interested in software architecture, automation and developer productivity
+
+---
+
+## ⚡ Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
+
+**C# · .NET · ASP.NET Core · REST APIs · Entity Framework Core**
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite" />
+</p>
+
+**React · TypeScript · JavaScript · Vite**
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,githubactions,docker" />
+</p>
+
+**Azure · GitHub Actions · Azure DevOps · CI/CD · Docker**
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,postman,vscode" />
+</p>
+
+**MySQL · SQL Server · Git · Postman · VS Code**
+
+---
+
+## 🚀 What I'm Building
+
+I'm currently interested in projects involving:
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│   ☁️ Cloud Applications                     │
+│   🔌 APIs & Backend Services                │
+│   ⚛️ Modern Web Applications                │
+│   🔄 CI/CD & DevOps                         │
+│   📱 iOS Applications                       │
+│   🏗️ Software Architecture                  │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+## 📌 Featured Projects
+
+Check out my pinned repositories below for selected projects, experiments and applications.
+
+I enjoy turning ideas into **clean, practical and maintainable software**.
+
+---
+
+## 📊 GitHub
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="[YOUR_LINKEDIN_URL](https://cr.linkedin.com/in/fabian-soto-bogantes)">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+### 💡 Build. Automate. Improve.
+
+⭐ Thanks for visiting my profile!
