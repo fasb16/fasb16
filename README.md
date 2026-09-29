@@ -86,14 +86,6 @@ I enjoy turning ideas into **clean, practical and maintainable software**.
 
 ---
 
-## 📊 GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p>
