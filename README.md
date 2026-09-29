@@ -41,10 +41,18 @@ I work across the stack, with a strong focus on **backend development, APIs, clo
 ### Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,githubactions,docker" />
+  <img src="https://skillicons.dev/icons?i=azure,githubactions,docker,github" />
 </p>
 
-**Azure · GitHub Actions · Azure DevOps · CI/CD · Docker**
+**Microsoft Azure · GitHub Actions · Azure DevOps · CI/CD · Docker**
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,apple,xcode" />
+</p>
+
+**Swift · SwiftUI · iOS · Xcode**
 
 ### Databases & Tools
 
@@ -66,6 +74,7 @@ I'm currently interested in:
 * 🔄 CI/CD and DevOps
 * 📱 iOS applications
 * 🏗️ Software architecture
+* 🤖 Developer productivity and automation
 
 ---
 
@@ -80,7 +89,7 @@ I enjoy turning ideas into **clean, practical and maintainable software**.
 ## 📊 GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=FabiánSoto&show_icons=true&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
 </p>
 
 ---
@@ -89,7 +98,7 @@ I enjoy turning ideas into **clean, practical and maintainable software**.
 
 <p>
   <a href="https://cr.linkedin.com/in/fabian-soto-bogantes">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
