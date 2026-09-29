@@ -10,13 +10,13 @@ I work across the stack, with a strong focus on **backend development, APIs, clo
 
 ## 🧑‍💻 About Me
 
-* 🔹 Building backend services and REST APIs with **C# and .NET**
-* 🔹 Developing modern web applications with **React & TypeScript**
-* 🔹 Working with **Microsoft Azure and cloud technologies**
-* 🔹 Designing and improving **CI/CD pipelines**
-* 🔹 Working with **GitHub & Azure DevOps**
-* 🔹 Exploring **iOS development with Swift**
-* 🔹 Interested in software architecture, automation and developer productivity
+* Building backend services and REST APIs with **C# and .NET**
+* Developing modern web applications with **React & TypeScript**
+* Working with **Microsoft Azure and cloud technologies**
+* Designing and improving **CI/CD pipelines**
+* Working with **GitHub and Azure DevOps**
+* Exploring **iOS development with Swift**
+* Interested in software architecture, automation and developer productivity
 
 ---
 
@@ -49,7 +49,7 @@ I work across the stack, with a strong focus on **backend development, APIs, clo
 ### Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,postman,vscode" />
 </p>
 
 **MySQL · SQL Server · Git · Postman · VS Code**
@@ -58,20 +58,14 @@ I work across the stack, with a strong focus on **backend development, APIs, clo
 
 ## 🚀 What I'm Building
 
-I'm currently interested in projects involving:
+I'm currently interested in:
 
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   ☁️ Cloud Applications                     │
-│   🔌 APIs & Backend Services                │
-│   ⚛️ Modern Web Applications                │
-│   🔄 CI/CD & DevOps                         │
-│   📱 iOS Applications                       │
-│   🏗️ Software Architecture                  │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+* ☁️ Cloud applications
+* 🔌 APIs and backend services
+* ⚛️ Modern web applications
+* 🔄 CI/CD and DevOps
+* 📱 iOS applications
+* 🏗️ Software architecture
 
 ---
 
@@ -86,7 +80,7 @@ I enjoy turning ideas into **clean, practical and maintainable software**.
 ## 📊 GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FabiánSoto&show_icons=true&hide_border=true&rank_icon=github" />
 </p>
 
 ---
@@ -94,7 +88,7 @@ I enjoy turning ideas into **clean, practical and maintainable software**.
 ## 🤝 Let's Connect
 
 <p>
-  <a href="[YOUR_LINKEDIN_URL](https://cr.linkedin.com/in/fabian-soto-bogantes)">
+  <a href="https://cr.linkedin.com/in/fabian-soto-bogantes">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
